@@ -8,6 +8,7 @@
 # ---------------------------------------------------------------------------------------------------
 
 username=$(whoami)
+# Path to log file
 log="/Users/"$username"/Logs/DeleteImmediately.log"
 
 # Logs date, time & which files/folders where deleted.
